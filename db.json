@@ -6,7 +6,7 @@
         "img": "https://i.postimg.cc/L6rpWBXK/cap1.jpg",
         "link": "https://pixeldrain.com/l/RqyRKE4n#item=0",
         "categoria": "Saga del East Blue",
-        "descripcion":"A band of pirates led by Alvida plundered a ship, only to find a barrel which contains a strange boy named Luffy."
+        "descripcion":"Un grupo de piratas dirigidos por Alvida atraca un barco, donde encuentran un barril que contiene a un muchacho extraño llamado Luffy."
       },
       {
         "id": 2,
@@ -14,63 +14,63 @@
         "img": "https://i.postimg.cc/zB7rVs8T/cap2.jpg",
         "link": "https://pixeldrain.com/l/RqyRKE4n#item=1",
         "categoria": "Saga del East Blue",
-        "descripcion":"Luffy and Koby arrive at Shell Island, a Marine base"
+        "descripcion":"Gracias a Koby, Luffy se entera de la existencia del famoso cazador de piratas Roronoa Zoro"
       },
       {
         "id": 3,
         "titulo": "¡Morgan vs. Luffy! ¿Quién es esa guapa muchacha?",
         "img": "https://i.postimg.cc/HkXFrqtj/cap3.jpg",
         "link": "https://pixeldrain.com/l/RqyRKE4n#item=2",
-        "categoria": "",
-        "descripcion":""
+        "categoria": "Saga del East Blue",
+        "descripcion":"Después de irrumpir en la base de la Marina en busca de la espadas de Zoro, Luffy lo libera y juntos pelean contra Morgan "mano de hacha""
       },
       {
         "id": 4,
         "titulo": "El primer obstáculo? La ballena gigante Laboon aparece",
         "img": "https://i.postimg.cc/VkQVP7cw/cap62.jpg",
         "link": "https://pixeldrain.com/l/sMx5HsC8#item=0",
-        "categoria": "",
-        "descripcion":""
+        "categoria": "Saga de Arabasta",
+        "descripcion":"Luego de pasar por la Reverse Mountain y entrar al Grand Line, se encuentran con una ballena llamada Laboon"
       },
      {
         "id": 5,
         "titulo": "La promesa de un hombre. Luffy y la ballena prometen encontrarse nuevamente",
         "img": "https://i.postimg.cc/XJpRYp16/cap63.jpg",
         "link": "https://pixeldrain.com/l/sMx5HsC8#item=1",
-        "categoria": "",
-        "descripcion":""
+        "categoria": "Saga de Arabasta",
+        "descripcion":"Crocus le cuenta a la tripulación la historia de Laboon y sus nakamas que se fueron hace 50 años, pero Luffy le dice que el volverá a verlo."
       },
     {
         "id": 6,
         "titulo": "Un pueblo de amante de los piratas? Llegada a Whiskey Peak",
         "img": "https://i.postimg.cc/fLtPh1kw/cap64.jpg",
         "link": "https://pixeldrain.com/l/sMx5HsC8#item=2",
-        "categoria": "",
-        "descripcion":""
+        "categoria": "Saga de Arabasta",
+        "descripcion":"Los Sombrero de Paja llevan a dos agentes fronterizos hasta llegar a una isla isla y huyen. La tripulación llega a Whiskey Peak"
       },
     {
         "id": 7,
         "titulo": "Zenny vive en la isla de la cabra y ¡hay un barco pirata en su montaña!",
         "img": "https://i.postimg.cc/pX2Bfgxp/cap136.jpg",
         "link": "https://pixeldrain.com/l/T7oFy8gM#item=0",
-        "categoria": "",
-        "descripcion":""
+        "categoria": "Saga de la isla del Cielo",
+        "descripcion":"La tripulación llega a una isla desierta en donde conocen a un viejo llamado Zenny. Chopper descubre que tiene 3 días de vida y Zoro descubre un barco pirata y salen a explorar."
       },
     {
         "id": 8,
         "titulo": "¿Qué les parece el trato? La ambición de Zenny el prestamista!",
         "img": "https://i.postimg.cc/c1VBjrQt/cap137.jpg",
         "link": "https://pixeldrain.com/l/T7oFy8gM#item=1",
-        "categoria": "",
-        "descripcion":""
+        "categoria": "Saga de la isla del Cielo",
+        "descripcion":"Los Sombrero de Paja cuidan de Zenny hasta que muera. Zenny les cuenta su historia a los Sombrero de Paja y Zoro se da cuenta que pasaron los 3 días por lo que deciden ayudarle a construir su barco y se van."
       },
     {
         "id": 9,
         "titulo": "Donde esta el tesoro de la isla! los Piratas de Zenny a la carga!",
         "img": "https://i.postimg.cc/2jJzhfnx/cap138.jpg",
         "link": "https://pixeldrain.com/l/T7oFy8gM#item=2",
-        "categoria": "",
-        "descripcion":""
+        "categoria": "Saga de la isla del Cielo",
+        "descripcion":"Zenny desea cumplir su sueño de ser pirata y le ayuda a los Sombrero de Paja a vencer a los marinos y se separan."
       }
     ]
   }
