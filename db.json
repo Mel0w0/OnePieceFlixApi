@@ -1,5 +1,5 @@
 {
-    "videos": [
+    "api": [
       {
         "id": 1,
         "title": "¡Yo soy Luffy! ¡El hombre que se convertirá en el Rey de los Piratas!",
@@ -10,49 +10,49 @@
         "id": 2,
         "title": "¡Entra el gran espadachín! ¡El Cazador de Piratas Roronoa Zoro!",
         "img": "https://i.postimg.cc/zB7rVs8T/cap2.jpg",
-        "link": "https://www.youtube.com/embed/AULPtYo25Lw?si=UGdKX1NSrEcQ0jfn"
+        "link": "https://pixeldrain.com/l/RqyRKE4n#item=1"
       },
       {
         "id": 3,
         "title": "¡Morgan vs. Luffy! ¿Quién es esa guapa muchacha?",
         "img": "https://i.postimg.cc/HkXFrqtj/cap3.jpg",
-        "link": "https://www.youtube.com/embed/03cxUlwLVt4?si=zVCUQNO-eS2RZQTO"
+        "link": "https://pixeldrain.com/l/RqyRKE4n#item=2"
       },
       {
         "id": 4,
         "title": "El primer obstáculo? La ballena gigante Laboon aparece",
         "img": "https://i.postimg.cc/VkQVP7cw/cap62.jpg",
-        "link": "https://www.youtube.com/embed/5T_Q_NtNLZE?si=M7D0JeagaKqsoaFs"
+        "link": "https://pixeldrain.com/l/sMx5HsC8#item=0"
       },
      {
         "id": 5,
         "title": "La promesa de un hombre. Luffy y la ballena prometen encontrarse nuevamente",
         "img": "https://i.postimg.cc/XJpRYp16/cap63.jpg",
-        "link": "https://www.youtube.com/embed/5T_Q_NtNLZE?si=M7D0JeagaKqsoaFs"
+        "link": "https://pixeldrain.com/l/sMx5HsC8#item=1"
       },
     {
         "id": 6,
         "title": "Un pueblo de amante de los piratas? Llegada a Whiskey Peak",
         "img": "https://i.postimg.cc/fLtPh1kw/cap64.jpg",
-        "link": "https://www.youtube.com/embed/5T_Q_NtNLZE?si=M7D0JeagaKqsoaFs"
+        "link": "https://pixeldrain.com/l/sMx5HsC8#item=2"
       },
     {
         "id": 7,
         "title": "Zenny vive en la isla de la cabra y ¡hay un barco pirata en su montaña!",
         "img": "https://i.postimg.cc/pX2Bfgxp/cap136.jpg",
-        "link": "https://www.youtube.com/embed/5T_Q_NtNLZE?si=M7D0JeagaKqsoaFs"
+        "link": "https://pixeldrain.com/l/T7oFy8gM#item=0"
       },
     {
         "id": 8,
         "title": "¿Qué les parece el trato? La ambición de Zenny el prestamista!",
         "img": "https://i.postimg.cc/c1VBjrQt/cap137.jpg",
-        "link": "https://www.youtube.com/embed/5T_Q_NtNLZE?si=M7D0JeagaKqsoaFs"
+        "link": "https://pixeldrain.com/l/T7oFy8gM#item=1"
       },
     {
         "id": 9,
         "title": "Donde esta el tesoro de la isla! los Piratas de Zenny a la carga!",
         "img": "https://i.postimg.cc/2jJzhfnx/cap138.jpg",
-        "link": "https://www.youtube.com/embed/5T_Q_NtNLZE?si=M7D0JeagaKqsoaFs"
+        "link": "https://pixeldrain.com/l/T7oFy8gM#item=2"
       }
     ]
   }
